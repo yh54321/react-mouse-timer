@@ -1,0 +1,36 @@
+{
+  "name": "react-mouse-timer",
+  "version": "1.0.0",
+  "description": "React hook resolving if mouse has moved in previous period of time",
+  "main": "src/useMouseMoved.js",
+  "types": "src/useMouseMoved.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yh54321/react-mouse-timer.git"
+  },
+  "keywords": [
+    "mouse",
+    "moved",
+    "movement",
+    "timer",
+    "react",
+    "hook"
+  ],
+  "author": "yh54321",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yh54321/react-mouse-timer/issues"
+  },
+  "homepage": "https://github.com/yh54321/react-mouse-timer#readme",
+  "devDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
