@@ -13,8 +13,8 @@ function MyComponent () {
   
   return (
     <div>
-      {mouseMoved3 && <p>Mouse has moved in last 3 seconsd!</p>}
-      {mouseMoved10 && <p>Mouse has moved in last 10 seconsd!</p>}
+      {mouseMoved3 && <p>Mouse has moved in last 3 seconds!</p>}
+      {mouseMoved10 && <p>Mouse has moved in last 10 seconds!</p>}
     </div>
   )
 }
